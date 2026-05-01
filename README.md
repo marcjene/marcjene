@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td valign="top" width="160">
-      <img src="marc_jene_vinuesa_circle.png" alt="Marc Jené Vinuesa" width="140"/>
+    <td valign="middle" width="180">
+      <img src="marc_jene_vinuesa_circle.png" alt="Marc Jené Vinuesa" width="160"/>
     </td>
     <td valign="middle">
       <h1>Marc Jené Vinuesa</h1>
