@@ -71,7 +71,8 @@ I hold a BSc in Industrial Engineering and a double MSc in Energy from **KU Leuv
    M. Jené-Vinuesa, V. Gadelha, M. Aragüés-Peñalba, A. Sumper  
    *In review*, 2026 &nbsp;·&nbsp; [Preprint](http://dx.doi.org/10.2139/ssrn.5369492)
 
-4. **Comprehensive data-driven framework for detecting and classifying non-technical distribution losses**  
+4. **Comprehensive data-driven framework for detecting and classifying non-technical distribution losses**
+   M. Jené-Vinuesa, M. Aragüés-Peñalba, A. Sumper
    *IEEE Access*, 2024 &nbsp;·&nbsp; [DOI: 10.1109/ACCESS.2024.3426940](https://doi.org/10.1109/ACCESS.2024.3426940)
 
 ## 📚 Conference Publications
