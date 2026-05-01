@@ -1,23 +1,19 @@
-<div align="center">
-
-
-<img src="marc_jene_vinuesa.jpg" alt="Marc Jené Vinuesa" width="150" style="border-radius: 50%;"/>
-
-
-# Marc Jené Vinuesa
-
-**ML Engineer · PhD Researcher · Substitute Professor**
-
-*Tether EV &nbsp;·&nbsp; CITCEA-UPC &nbsp;·&nbsp; Universitat Politècnica de Catalunya*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcjene/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=Svr91xgAAAAJ)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-8412-135X)
-[![Email](https://img.shields.io/badge/marc.jene@upc.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marc.jene@upc.edu)
-
-</div>
+<table>
+  <tr>
+    <td valign="top" width="160">
+      <img src="marc_jene_vinuesa_circle.png" alt="Marc Jené Vinuesa" width="140"/>
+    </td>
+    <td valign="middle">
+      <h1>Marc Jené Vinuesa</h1>
+      <strong>ML Engineer · PhD Researcher · Substitute Professor</strong><br/>
+      <em>Tether EV &nbsp;·&nbsp; CITCEA-UPC &nbsp;·&nbsp; Universitat Politècnica de Catalunya</em><br/><br/>
+      <a href="https://www.linkedin.com/in/marcjene/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+      <a href="https://scholar.google.com/citations?hl=en&user=Svr91xgAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/></a>
+      <a href="https://orcid.org/0009-0000-8412-135X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"/></a>
+      <a href="mailto:marc.jene@upc.edu"><img src="https://img.shields.io/badge/marc.jene@upc.edu-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
