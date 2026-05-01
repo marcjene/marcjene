@@ -83,7 +83,7 @@ I hold a BSc in Industrial Engineering and a double MSc in Energy from **KU Leuv
 
 6. **Non-technical losses identification in distribution grids: a hybrid approach**  
    M. Jené-Vinuesa, M. Aragüés-Peñalba, A. Sumper  
-   *IET Conference Proceedings*, 2023 &nbsp;·&nbsp; [DOI: 10.1049/icp.2023.0405](https://doi.org/10.1049/icp.2023.0405)
+   *27th International Conference on Electricity Distribution (CIRED)*, 2023 &nbsp;·&nbsp; [DOI: 10.1049/icp.2023.0405](https://doi.org/10.1049/icp.2023.0405)
 
 ---
 
