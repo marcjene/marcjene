@@ -74,7 +74,7 @@ I hold a BSc in Industrial Engineering and a double MSc in Energy from **KU Leuv
 4. **Comprehensive data-driven framework for detecting and classifying non-technical distribution losses**  
    *IEEE Access*, 2024 &nbsp;·&nbsp; [DOI: 10.1109/ACCESS.2024.3426940](https://doi.org/10.1109/ACCESS.2024.3426940)
 
-## 📄 Conference Publications
+## 📚 Conference Publications
 
 5. **Enhancing Fraud Detection in Renewable Energy Grids through Behind-the-Meter PV Disaggregation**  
    M. Jené-Vinuesa, A. Abdullah, M. Aragüés-Peñalba, A. Sumper  
