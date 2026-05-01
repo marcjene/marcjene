@@ -59,9 +59,9 @@ I hold a BSc in Industrial Engineering and a double MSc in Energy from **KU Leuv
 
 ## 📄 Journal Publications
 
-1. **Conditional Diffusion Model for Probabilistic Disaggregation of PV Systems and Heat Pumps** *(accepted)*  
+1. **Conditional Diffusion Model for Probabilistic Disaggregation of PV Systems and Heat Pumps** *(accepted for PSCC2026)*  
    M. Jené-Vinuesa, H. Kazmi, M. Aragüés-Peñalba, A. Sumper  
-   *PSCC 2026 – Power Systems Computation Conference and Electric Power Systems Research*
+   *Electric Power Systems Research*, 2026 &nbsp;·&nbsp; (To be published)
    
 2. **Conditional diffusion modeling for probabilistic behind-the-meter PV disaggregation**  
    M. Jené-Vinuesa, H. Kazmi, M. Aragüés-Peñalba, A. Sumper  
