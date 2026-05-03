@@ -42,7 +42,7 @@ I hold a BSc in Industrial Engineering and a double MSc in Energy from **KU Leuv
 
 | Repository | Description | Status |
 |:--|:--|:--|
-| [**cddpm-probpvdis**](https://github.com/CITCEA-UPC/cddpm-probpvdis) | Conditional diffusion model for probabilistic behind-the-meter PV disaggregation | 🚧 In progress |
+| [**cddpm-probpvdis**](https://github.com/CITCEA-UPC/cddpm-probpvdis) | Conditional diffusion model for probabilistic behind-the-meter PV disaggregation | 🟢 Updated 31/04/2026 |
 | [**lf-prob-disaggregation**](https://github.com/CITCEA-UPC/lf-prob-disaggregation) | Probabilistic PV & heat pump disaggregation from low-frequency smart meter data | 🚧 In progress |
 
 ### Personal
